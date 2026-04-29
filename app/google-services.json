@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "258031377218",
+    "firebase_url": "https://semana-6-firebase-3f28d-default-rtdb.firebaseio.com",
+    "project_id": "semana-6-firebase-3f28d",
+    "storage_bucket": "semana-6-firebase-3f28d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258031377218:android:441a613426b7f8f4d706db",
+        "android_client_info": {
+          "package_name": "com.example.semana6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIS_ZThpMS1a4HDiJX3Sux2OugHwIbb4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258031377218:android:55e7ebeb6dcbaf26d706db",
+        "android_client_info": {
+          "package_name": "com.example.semanacuatro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIS_ZThpMS1a4HDiJX3Sux2OugHwIbb4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
