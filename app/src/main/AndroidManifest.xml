@@ -15,7 +15,7 @@
         android:theme="@style/Theme.Semana6">
         <activity
             android:name=".MenuActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
